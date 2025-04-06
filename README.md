@@ -7,8 +7,11 @@ This project visualizes major milestones in Artificial Intelligence using an ani
 
 🚀 Features
 > Interactive animation of key AI events from 1950 to 2030
+
 > Event descriptions dynamically appear on left/right sides
+
 > Play, pause, and slow-down controls via buttons
+
 > Clean vertical timeline layout with year markers
 
 📌 Milestones Covered
